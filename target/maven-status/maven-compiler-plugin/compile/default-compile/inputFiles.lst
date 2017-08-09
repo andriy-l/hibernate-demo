@@ -1,0 +1,7 @@
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/App.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/util/HibernateUtil.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/dao/CourseDAO.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/dao/StudentDAO.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/entity/Sex.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/entity/Course.java
+/home/andriy/Documents/brainacad-java/p2/hibernatedemo/src/main/java/ua/org/nalabs/javalearn/entity/Student.java
